@@ -1,6 +1,6 @@
 <!-- Encabezado con un saludo y una breve introducción -->
 <h1 align="center">¡Hola! 👋 Soy Pedro Úbeda Sánchez</h1>
-<h3 align="center">Técnico Informático / Aviónico de Hellín, Albacete ✈️💻</h3>
+<h3 align="center">Técnico Informático / Aviónico ✈️💻</h3>
 
 <p align="center">
   <a href="https://pedroubedasanchez.es"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge" /></a>
@@ -55,13 +55,6 @@
 
 ---
 
-### 🐍 Snake Game de Contribuciones
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🎯 Objetivos 2025
 - Construir un proyecto **full-stack** con backend propio.  
 - Integrar **IA** en un proyecto personal.  
@@ -70,3 +63,4 @@
 ---
 
 <p align="center">✨ Gracias por visitar mi perfil ✨</p>
+
