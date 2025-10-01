@@ -38,26 +38,26 @@
 ---
 
 ### 🚀 Proyectos Destacados
-- [🔧 Sistema de Control de Equipos](https://github.com/Belc3bU/proyecto-equipos) — App para gestionar reparaciones y órdenes técnicas.  
-- [🌐 Web personal](https://pedroubedasanchez.es) — Mi portafolio online con CV y proyectos.  
-- [🛩️ Simulación Aviónica](https://github.com/Belc3bU/sim-avionica) — Proyecto experimental orientado a sistemas de vuelo.  
+- [🌐 Portfolio Personal](https://github.com/BeLc3bU/PedroUbedaSanchez.github.io) — Web con mi CV y proyectos, desplegada en [GitHub Pages](https://belc3bu.github.io/PedroUbedaSanchez.github.io/).
+- [🔧 Sistema de Control de Equipos](https://github.com/BeLc3bU/Control-de-Equipos) — App para registrar reparaciones y órdenes técnicas.
+- [📊 Test de Permanencia](https://belc3bu.github.io/test-permanencia/) — Herramienta interactiva publicada en GitHub Pages.
 
 ---
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belc3bU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belc3bU&layout=compact&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLc3bU&layout=compact&langs_count=8&theme=dracula" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Belc3bU&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BeLc3bU&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Gráfico de Contribuciones
+### 🐍 Snake Game de Contribuciones
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=Belc3bU&theme=dark" />
+  <img src="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
