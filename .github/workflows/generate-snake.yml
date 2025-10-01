@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule: # Ejecutar cada 12h
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Generar el snake 🐍
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BeLc3bU
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Subir a la rama 'output'
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
