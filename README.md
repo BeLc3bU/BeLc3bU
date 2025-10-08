@@ -21,18 +21,21 @@
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes**  
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-**Herramientas**  
+**Frameworks y Herramientas**  
+![Next.js](https://img.shields.io/badge/Next.js-Learning-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Intermediate-orange?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-Primary-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge&logo=linux&logoColor=yellow)
 
 **Aprendiendo**  
-![Backend](https://img.shields.io/badge/Backend-Learning-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-Exploring-blue?style=for-the-badge&logo=react&logoColor=white)
 ![AI](https://img.shields.io/badge/AI/ML-Exploring-purple?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
@@ -41,6 +44,7 @@
 - [🌐 Portfolio Personal](https://github.com/BeLc3bU/PedroUbedaSanchez.github.io) — Web con mi CV y proyectos, desplegada en [GitHub Pages](https://belc3bu.github.io/PedroUbedaSanchez.github.io/).
 - [🔧 Sistema de Control de Equipos](https://github.com/BeLc3bU/Control-de-Equipos) — App para registrar reparaciones y órdenes técnicas.
 - [📊 Test de Permanencia](https://belc3bu.github.io/test-permanencia/) — Herramienta interactiva publicada en GitHub Pages.
+- [🚀 SL2000-Next](https://github.com/BeLc3bU/SL2000-Next) — Versión moderna y mejorada del sistema SL2000, desarrollada con nuevas tecnologías.
 
 ---
 
