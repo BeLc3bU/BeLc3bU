@@ -50,7 +50,7 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLc3bU&layout=compact&langs_count=8&theme=dracula" />
   <br/>
