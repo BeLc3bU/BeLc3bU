@@ -1,85 +1,106 @@
-<!-- Encabezado con patrones de @github-profile-architect -->
-<h1 align="center">¡Hola! 👋 Soy Pedro Úbeda Sánchez</h1>
-<h3 align="center">Técnico Informático / Aviónico de Hellín, Albacete ✈️💻</h3>
+<!-- Encabezado dinámico y estético -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorStart=1e293b&customColorEnd=0f172a&height=220&section=header&text=Pedro%20Úbeda%20Sánchez&subtitle=Técnico%20Informático%20/%20Aviónico%20•%20Desarrollador%20Full-Stack&fontSize=30&fontAlignY=35&descAlignY=60&theme=default" width="100%" alt="Pedro Úbeda Sánchez" />
+</div>
 
-<p align="center">
-  <a href="https://pedroubedasanchez.es"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/pubesan"><img src="https://img.shields.io/badge/LinkedIn-Perfil-informational?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:contacto@pedroubedasanchez.es"><img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+<!-- Enlaces rápidos con badges estilizados -->
+<div align="center">
+  <p>
+    <a href="https://pedroubedasanchez.es"><img src="https://img.shields.io/badge/🌐%20Portfolio-pedroubedasanchez.es-0f172a?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/pubesan"><img src="https://img.shields.io/badge/💼%20LinkedIn-Perfil-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:contacto@pedroubedasanchez.es"><img src="https://img.shields.io/badge/✉️%20Email-Contacto-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
 ### 👨‍💻 Sobre mí
-- 🔭 **Profesión**: Técnico Aviónico especializado en sistemas de control y mantenimiento.
-- 🚀 **Nexo**: Uniendo la precisión de la aviación con la potencia del desarrollo de software.
-- 🌱 **Enfoque**: Actualmente desarrollando sistemas de **Control de Equipos Aeronáuticos** (SRI) y profundizando en arquitecturas **Full-Stack**.
-- 💬 Me apasiona cómo la tecnología puede optimizar procesos críticos en entornos de alta precisión.
+
+¡Hola! Soy un apasionado de la **tecnología** y la **aviación**. Mi perfil combina la precisión técnica del mantenimiento aviónico con la creatividad del desarrollo de software moderno. Actualmente estoy enfocado en el desarrollo de aplicaciones web de alto rendimiento, arquitecturas **AI-First** y sistemas cliente-servidor optimizados para redes locales.
+
+- ✈️ **Técnico de Aviónica** con sólida base en sistemas informáticos y redes.
+- 🔭 Actualmente construyendo **TarkovApp** (un ecosistema offline-first para Escape From Tarkov con sincronización local IndexedDB y asistente RAG integrado).
+- 🚀 Experiencia en la modernización de flujos y migración a arquitecturas robustas en **Next.js 15/16 (App Router)**, **NestJS** y **Tailwind CSS v4**.
+- 💬 Convencido del potencial del **Desarrollo Asistido por IA** y la automatización inteligente.
 
 ---
 
-### 🛠️ Stack Tecnológico
-<!-- Categorizado según @github-profile-architect -->
+### 🛠️ Ecosistema Tecnológico
 
-**Frontend & Logic**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Para mantener un diseño limpio y evitar el desorden visual, aquí tienes las herramientas que forman parte de mi día a día:
 
-**Data & Systems**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,graphql,postgres,supabase,prisma,python,sqlite,git,vscode,linux,docker,githubactions" alt="Tecnologías" />
+</div>
+
+#### 🧠 En constante exploración y aprendizaje:
+- **Agentes e IA**: Integración de LLMs (Google Gemini API), RAG y automatización de tareas.
+- **Visualización y Gráficos**: Modelado en 3D con Three.js y diagramación con React Flow.
+- **Testing y Calidad**: Suite de pruebas con Vitest, Jest y Playwright.
 
 ---
 
-### 🚀 Proyectos Destacados (Enfocados por @aviation-tech-expert)
+### 🚀 Proyectos Destacados
 
-#### [🔧 Control de Equipos Aeronáuticos](https://github.com/BeLc3bU/Control-de-Equipos)
-Sistema de Registro de Inventario (SRI) y reparaciones, optimizado para despliegue en LAN. Enfocado en la fiabilidad y trazabilidad de componentes críticos en aviación.
+<details open>
+<summary><b>📂 Desplegar lista de proyectos principales</b></summary>
+<br/>
 
-#### [🏹 SL2000-Next](https://github.com/BeLc3bU/SL2000-Next)
-Evolución moderna del sistema SL2000. Reestructuración completa aplicando patrones de arquitectura escalable y nuevas tecnologías para mejorar la eficiencia operativa.
+| Proyecto | Descripción | Stack Tecnológico | Enlace |
+| :--- | :--- | :--- | :---: |
+| **🎮 TarkovApp** | Guía táctica offline-first en español para Escape From Tarkov. Cuenta con sincronización masiva a IndexedDB y chatbot táctico con RAG. | `Next.js 16`, `NestJS v11`, `GraphQL`, `Supabase`, `Prisma`, `Dexie.js`, `Zustand` | [Repositorio](https://github.com/BeLc3bU/TarkovApp) |
+| **🌐 Portfolio Personal** | Currículum interactivo 3D. Migrado de Vite a Next.js 15 con soporte multiplataforma para GitHub Pages. | `Next.js 15`, `Three.js`, `React Flow`, `Vitest`, `Tailwind CSS` | [Web](https://belc3bu.github.io/PedroUbedaSanchez.github.io/) / [Repo](https://github.com/BeLc3bU/PedroUbedaSanchez.github.io) |
+| **🔧 Control de Equipos** | Sistema de Registro de Inventario (SRI) y órdenes técnicas para aviónica optimizado para redes LAN. | `JavaScript`, `SQLite`, `HTML5`, `CSS3` | [Repositorio](https://github.com/BeLc3bU/Control-de-Equipos) |
+| **✈️ SL2000-Next** | Versión mejorada y reconstruida del sistema clásico de gestión de aviónica SL2000. | `TypeScript`, `Node.js`, `Tailwind CSS` | [Repositorio](https://github.com/BeLc3bU/SL2000-Next) |
+| **📊 Test de Permanencia** | Simulador web interactivo para la preparación de exámenes de permanencia militar. | `React`, `JavaScript`, `CSS3` | [Web](https://belc3bu.github.io/test-permanencia/) |
 
-#### [📊 Test de Permanencia](https://belc3bu.github.io/test-permanencia/)
-Herramienta interactiva para la práctica de oposiciones, demostrando el compromiso con el aprendizaje continuo y la utilidad pública.
-
-#### [🌐 Portfolio Personal](https://github.com/BeLc3bU/PedroUbedaSanchez.github.io)
-Mi escaparate digital donde documento mi evolución técnica y proyectos activos.
-
----
-
-### 🎯 Roadmap hacia Full-Stack 2026 (@full-stack-momentum-2026)
-- [ ] Implementar un backend robusto basado en **Node.js** y **SQLite** para todos los sistemas de control activos.
-- [ ] Adoptar **Next.js** como estándar para aplicaciones web corporativas y técnicas.
-- [ ] Automatizar flujos de trabajo técnicos mediante **Agentes de IA** personalizados.
-- [ ] Contribuir a proyectos **Open-Source** que crucen los dominios de la IT y la Aviación.
+</details>
 
 ---
 
-### 📊 Estadísticas & Actividad
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLc3bU&layout=compact&langs_count=8&theme=dracula" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=BeLc3bU&theme=dracula&hide_border=true" />
-</p>
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="195px" alt="Estadísticas de GitHub" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLc3bU&layout=compact&langs_count=6&theme=tokyonight" height="195px" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=BeLc3bU&theme=tokyonight&hide_border=true" width="100%" alt="Racha de commits" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🐍 Contribution Journey
-<p align="center">
+### 🐍 Contribuciones en Movimiento
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/BeLc3bU/BeLc3bU/output/github-contribution-grid-snake.svg" width="95%" />
   </picture>
-</p>
+</div>
 
 ---
 
-<p align="center">✨ *De la pista al servidor: construyendo el futuro de la gestión técnica.* ✨</p>
+### 🎯 Objetivos para 2026
+
+- [ ] Lanzar el MVP completo de **TarkovApp** con soporte offline e integración RAG.
+- [ ] Implementar flujos automatizados con **agentes de IA** en mis pipelines de desarrollo (CI/CD).
+- [ ] Desplegar la arquitectura cliente-servidor de **Control de Equipos** a gran escala en red LAN física.
+- [ ] Contribuir a proyectos de código abierto del ámbito de simulación o aviación.
+
+---
+
+<div align="center">
+  <b>¡Gracias por visitar mi perfil! Si te apasiona la tecnología, los sistemas o la aviación, ¡conectemos! 🚀✈️</b>
+</div>
