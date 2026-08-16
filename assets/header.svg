@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0d1527"/>
+      <stop offset="100%" stop-color="#111c35"/>
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.5" stroke-opacity="0.4"/>
+    </pattern>
+
+    <!-- Soft Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      font-size: 34px;
+      fill: #f8fafc;
+      letter-spacing: -0.5px;
+    }
+    .kicker {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 700;
+      font-size: 12px;
+      fill: #38bdf8;
+      letter-spacing: 2.5px;
+      text-transform: uppercase;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      fill: #94a3b8;
+    }
+    .pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 600;
+      font-size: 11px;
+      fill: #cbd5e1;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="900" height="220" rx="12" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Grid Overlay -->
+  <rect width="900" height="220" rx="12" fill="url(#grid)"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#cyanGlow)" filter="url(#glow)"/>
+
+  <!-- Decorative Tech Wave / Geometric Lines -->
+  <path d="M 620 220 C 680 140, 760 100, 900 130 L 900 220 Z" fill="#0284c7" fill-opacity="0.05"/>
+  <path d="M 680 220 C 740 160, 800 130, 900 150 L 900 220 Z" fill="#38bdf8" fill-opacity="0.08"/>
+  <path d="M 550 220 Q 720 120 900 160" fill="none" stroke="url(#cyanGlow)" stroke-width="1.5" stroke-opacity="0.4"/>
+  <path d="M 580 220 Q 750 140 900 180" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.2"/>
+
+  <!-- Decorative Avionics HUD Circles -->
+  <circle cx="810" cy="80" r="55" fill="none" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.15" stroke-dasharray="4 6"/>
+  <circle cx="810" cy="80" r="35" fill="none" stroke="#0284c7" stroke-width="0.75" stroke-opacity="0.25"/>
+  <circle cx="810" cy="80" r="3" fill="#38bdf8" fill-opacity="0.6"/>
+  <line x1="745" y1="80" x2="875" y2="80" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.2"/>
+  <line x1="810" y1="15" x2="810" y2="145" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.2"/>
+
+  <!-- Content Section -->
+  <!-- Kicker / Category -->
+  <g transform="translate(45, 42)">
+    <rect x="0" y="-14" width="8" height="8" rx="2" fill="#38bdf8" />
+    <text x="16" y="-6" class="kicker">SISTEMAS CRÍTICOS &amp; AVIÓNICA • SOFTWARE ENGINEER • AI ARCHITECTURES</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="45" y="86" class="title">Pedro Úbeda Sánchez</text>
+
+  <!-- Subtitle -->
+  <text x="45" y="116" class="subtitle">Ingeniería de Software Full-Stack • Spec-Driven Development (SDD) • Multi-Agent Systems</text>
+
+  <!-- Tech Badges / Pills -->
+  <g transform="translate(45, 145)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="160" height="28" rx="6" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
+      <circle cx="14" cy="14" r="4" fill="#38bdf8"/>
+      <text x="26" y="18" class="pill-text">Avionics &amp; Systems</text>
+    </g>
+
+    <!-- Pill 2 -->
+    <g transform="translate(170, 0)">
+      <rect width="165" height="28" rx="6" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
+      <circle cx="14" cy="14" r="4" fill="#61dafb"/>
+      <text x="26" y="18" class="pill-text">React 19 • Next.js 15</text>
+    </g>
+
+    <!-- Pill 3 -->
+    <g transform="translate(345, 0)">
+      <rect width="180" height="28" rx="6" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
+      <circle cx="14" cy="14" r="4" fill="#a855f7"/>
+      <text x="26" y="18" class="pill-text">Spec-Driven AI &amp; Agents</text>
+    </g>
+
+    <!-- Pill 4 -->
+    <g transform="translate(535, 0)">
+      <rect width="170" height="28" rx="6" fill="url(#cardGrad)" stroke="#334155" stroke-width="1"/>
+      <circle cx="14" cy="14" r="4" fill="#10b981"/>
+      <text x="26" y="18" class="pill-text">High-Reliability Eng.</text>
+    </g>
+  </g>
+</svg>

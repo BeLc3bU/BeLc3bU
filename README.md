@@ -1,9 +1,11 @@
-<!-- Header dinámico y profesional -->
+<!-- Header dinámico y profesional (SVG Nativo Autónomo) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorStart=0f172a&customColorEnd=1e293b&height=210&section=header&text=Pedro%20%C3%9Abeda%20S%C3%A1nchez&subtitle=Sistemas%20Cr%C3%ADticos%20%26%20Avi%C3%B3nica%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Architectures&fontSize=28&fontAlignY=36&descAlignY=62&theme=default" width="100%" alt="Pedro Úbeda Sánchez - Header" />
+  <img src="assets/header.svg" width="100%" alt="Pedro Úbeda Sánchez - Sistemas Críticos & Aviónica • Software Engineer • AI Architectures" />
 </div>
 
-<!-- Enlaces rápidos y de contacto -->
+<br/>
+
+<!-- Enlaces directos y de contacto -->
 <div align="center">
   <a href="https://pedroubedasanchez.es"><img src="https://img.shields.io/badge/🌐%20Portfolio-pedroubedasanchez.es-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pedroubedasanchez/"><img src="https://img.shields.io/badge/💼%20LinkedIn-pedroubedasanchez-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
@@ -81,24 +83,10 @@ Actualmente traslado esa mentalidad al desarrollo de software y arquitecturas **
 
 ---
 
-### 📊 Métricas de Actividad
+### 📊 Indicadores de Capacidad & Especialización
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=BeLc3bU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=8" height="195px" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLc3bU&layout=compact&langs_count=6&theme=tokyonight&border_radius=8" height="195px" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=BeLc3bU&theme=tokyonight&hide_border=false&border_radius=8" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="assets/metrics.svg" width="100%" alt="Pedro Úbeda Sánchez - Métricas de Especialización" />
 </div>
 
 ---
